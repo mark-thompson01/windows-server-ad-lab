@@ -1,6 +1,6 @@
 # windows-server-ad-lab
 
-# Windows Server Lab: Building an Active Directory Domain with Group Policies
+# Building an Active Directory Domain with Group Policies
 
 This repository documents a step-by-step lab project where I built a functional Windows Server 2016 Active Directory environment from scratch in a virtualized setup.  
 The goal of this lab was to gain hands-on experience with Active Directory, DNS, DHCP, Group Policy Objects (GPOs), and PowerShell for managing and automating domain services.
