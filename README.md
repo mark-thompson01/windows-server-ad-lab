@@ -47,11 +47,17 @@ Each section below links to a live webpage that details a specific phase of the 
 To recreate this lab environment:
 
 1. Install [Oracle VirtualBox](https://www.virtualbox.org/).
+   
 2. Create a virtual machine and install Windows Server 2016.
+   
 3. Configure DNS and DHCP roles.
+
 4. Promote the server to a domain controller using Active Directory Domain Services.
+
 5. Join a client computer to the new domain.
+
 6. Create and link Group Policy Objects (GPOs) for security and user configuration.
+
 7. Use PowerShell for managing AD users, groups, and GPOs.
 
 Follow the detailed steps linked in the sections above for screenshots and guidance.
@@ -67,12 +73,6 @@ Follow the detailed steps linked in the sections above for screenshots and guida
 - Managed users, groups, and GPOs using both GUI tools and PowerShell.
 - Improved understanding of Windows Server administration fundamentals.
 
----
-
-## 🛡️ License
-
-The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
-You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
 
 ---
 
@@ -81,3 +81,11 @@ You're welcome to share, adapt, or build upon it — just please provide credit 
 Visit my full GitHub Pages portfolio to explore additional projects:
 
 🔗 [MTPortfolio – Full Project Index](https://mark-thompson01.github.io/MTPortfolio/)
+
+
+---
+
+## 🛡️ License
+
+The content and structure of this repository (including guides, demonstrations, and screenshots) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).  
+You're welcome to share, adapt, or build upon it — just please provide credit where it's due.
