@@ -14,8 +14,9 @@ Each section below links to a live webpage that details a specific phase of the 
 - [🔁 How to Recreate This Lab](#-how-to-recreate-this-lab)
 - [🛠️ Tech Used](#-tech-used)
 - [📘 What I’ve Learned](#-what-ive-learned)
-- [🛡️ License](#-license)
 - [📁 More from Me](#more-from-me)
+- [🛡️ License](#-license)
+
 
 ---
 
